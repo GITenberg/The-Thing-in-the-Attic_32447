@@ -1,0 +1,43 @@
+_repo: The-Thing-in-the-Attic_32447
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 32447-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blish, James
+    aliases:
+    - Blish, James Benjamin
+    - Atheling, William
+    birthdate: 1921
+    deathdate: 1975
+    gutenberg_agent_id: '25608'
+    url: http://www.gutenberg.org/2009/agents/25608
+description: If you're looking for a fun, fast, and fascinating science-fiction read,
+  try ""The Thing in the Attic"" from author James Blish. This tale imagines a universe
+  populated by tree-dwelling beings who regard life on the flat surface of the planet
+  to be the worst possible punishment. When a small group of them are relegated to
+  life on the surface as penance for the crime of expressing skepticism about the
+  sacred text that governs their culture, they're thrust into a strange new world
+  in ...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Thing in the Attic
+url: http://www.gutenberg.org/ebooks/32447
